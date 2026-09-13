@@ -1,10 +1,16 @@
 # Hola, soy Matías 👋
 
-Ingeniero en Informática - Chileno 🇨🇱
-
-**CTO & COO @ Don Mateo**
-
-Building technology that solves real business problems.
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│     MS     MATIAS SILVA                              │
+│            SOLUCIONES TECNOLÓGICAS                   │
+│                                                      │
+│     BUILDING TECHNOLOGY THAT SOLVES                  │
+│     REAL BUSINESS PROBLEMS.                          │
+│                                                      │
+│     CTO & COO @ DON MATEO                  CHILE     │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 
 ## Actualmente trabajando en
 
