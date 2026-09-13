@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Matías 👋
 
-<!--
-**matisilvadev/matisilvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Informática - Chileno 🇨🇱
 
-Here are some ideas to get you started:
+Construyo soluciones tecnológicas para resolver problemas reales de negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente trabajando en
+
+  - Desarrollo de Software y Web
+  - Automatización de Procesos
+  - Infraestructura y Cloud
+  - Ciberseguridad
+  - Gestión y Excelencia Operacional
+  - Datos y Business Intelligence
+  - IA aplicada a los negocio
+
+## Proyectos
+
+- DigitalSignage Solutions (SaaS)
+- Loyalty Wallet (SaaS)
+- Business Intelligence / Analítica Operacional
+- Sistema de Control y Priorización Operacional
+- etc
+
+## Contacto
+
+- Correo: matiassilvaestrada@gmail.com
+- Instagram: @matisilva.dev
