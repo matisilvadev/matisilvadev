@@ -1,6 +1,7 @@
 # Hola, soy Matías 👋
 
 Ingeniero en Informática - Chileno 🇨🇱
+
 CTO & COO @ Don Mateo
 
 Building technology that solves real business problems.
