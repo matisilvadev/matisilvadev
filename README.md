@@ -1,8 +1,8 @@
 # Hola, soy Matías 👋
 
 Ingeniero en Informática - Chileno 🇨🇱
-
-Actualmente me desempeño como **CTO & COO en Don Mateo**, combinando tecnología y gestión de operaciones para diseñar sistemas, automatizar procesos, mejorar la gestión interna y optimizar la operación del negocio.
+CTO & COO @ Don Mateo
+Building technology that solves real business problems.
 
 ## Actualmente trabajando en
 
