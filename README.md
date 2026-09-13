@@ -1,27 +1,14 @@
 # Hola, soy Matías 👋
 
+Ingeniero en Informática - Chileno 🇨🇱
 
-┌──────────────────────────────────────────────────────┐
+**CTO & COO @ Don Mateo**
 
-│                                                      │
+Building technology that solves real business problems.
 
-│     MS     MATIAS SILVA                              │
-
-│            SOLUCIONES TECNOLÓGICAS                   │
-
-│                                                      │
-
-│     BUILDING TECHNOLOGY THAT SOLVES                  │
-
-│     REAL BUSINESS PROBLEMS.                          │
-
-│                                                      │
-
-│     CTO & COO @ DON MATEO                  CHILE     │
-
-│                                                      │
-
-└──────────────────────────────────────────────────────┘
+![Role](https://img.shields.io/badge/CTO%20%26%20COO-Don%20Mateo-blue)
+![Focus](https://img.shields.io/badge/Focus-Technology%20%26%20Operations-blue)
+![Location](https://img.shields.io/badge/Chile-🇨🇱-blue)
 
 ## Actualmente trabajando en
 
