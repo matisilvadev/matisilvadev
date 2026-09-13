@@ -2,7 +2,7 @@
 
 Ingeniero en Informática - Chileno 🇨🇱
 
-Construyo soluciones tecnológicas para resolver problemas reales de negocios.
+Actualmente me desempeño como **CTO & COO en Don Mateo**, combinando tecnología y gestión de operaciones para diseñar sistemas, automatizar procesos, mejorar la gestión interna y optimizar la operación del negocio.
 
 ## Actualmente trabajando en
 
