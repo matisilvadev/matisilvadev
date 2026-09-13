@@ -1,15 +1,26 @@
 # Hola, soy Matías 👋
 
+
 ┌──────────────────────────────────────────────────────┐
+
 │                                                      │
+
 │     MS     MATIAS SILVA                              │
+
 │            SOLUCIONES TECNOLÓGICAS                   │
+
 │                                                      │
+
 │     BUILDING TECHNOLOGY THAT SOLVES                  │
+
 │     REAL BUSINESS PROBLEMS.                          │
+
 │                                                      │
+
 │     CTO & COO @ DON MATEO                  CHILE     │
+
 │                                                      │
+
 └──────────────────────────────────────────────────────┘
 
 ## Actualmente trabajando en
